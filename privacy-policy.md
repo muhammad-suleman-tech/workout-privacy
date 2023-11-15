@@ -3,7 +3,7 @@
 ### Introduction
 
 Our privacy policy will help you understand what information we collect, how App uses it, and what choices you have.
-[Technupur/Art Board] built the [Art Board] app as a free app. This SERVICE is provided by Art Board App at no cost and is intended for use as is.If you choose to use our Service, then you agree to the collection and use of information in relation with this policy.
+[Technupur/GOAT] built the [GOAT] app as a free app. This SERVICE is provided by GOAT App at no cost and is intended for use as is.If you choose to use our Service, then you agree to the collection and use of information in relation with this policy.
 
 ### Personal Information
 
